@@ -12,5 +12,5 @@ Peraturan Perlindungan Data memberikan hak kepada orang (dikenal dalam peraturan
 ## Permintaan Subjek Data / Data Subject Request 
 Merupakan Permintaan formal oleh data yang tunduk pada pengontrol untuk mengambil tindakan pada data pribadi.
 # Maksud dan TUjuan
-Dengan adanya Hal seperti di sebutkan diatas maka pihak kami juga mulai mengembangkan element yang merupakan perangkat utility tools guna mempermudah para pengguna memproses atau mengeksekusi data yang menyangkut keberadaan diri mereka dalam halaman atau data service yang ada pada pihak kami.
+Dengan adanya Hal seperti di sebutkan diatas maka pihak kami juga mulai mengembangkan element yang seperti perangkat utility tools guna mempermudah para pengguna memproses atau mengeksekusi data yang menyangkut keberadaan diri mereka dalam halaman atau data service yang ada pada pihak kami.
 
