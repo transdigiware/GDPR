@@ -11,6 +11,8 @@ Peraturan Perlindungan Data memberikan hak kepada orang (dikenal dalam peraturan
 # DSR
 ## Permintaan Subjek Data / Data Subject Request 
 Merupakan Permintaan formal oleh data yang tunduk pada pengontrol untuk mengambil tindakan pada data pribadi.
-# Maksud dan TUjuan
+# Maksud dan Tujuan
 Dengan adanya Hal seperti di sebutkan diatas maka pihak kami juga mulai mengembangkan element yang dibuat dan di usahakan dibangun menyerupai/seperti perangkat utility tools guna mempermudah para pengguna memproses atau mengeksekusi data yang menyangkut keberadaan diri mereka dalam halaman atau data service yang ada pada pihak kami.
+Ruang Lingkup :
+Dalam pengembangan project tersbut kami memulai pada repositories kami di tempat ini yang dapat langsung di Klon dengan mengetikan code sumber seperti ini pada terminal anda !
 
