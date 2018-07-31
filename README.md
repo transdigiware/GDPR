@@ -16,3 +16,5 @@ Dengan adanya Hal seperti di sebutkan diatas maka pihak kami juga mulai mengemba
 Ruang Lingkup :
 Dalam pengembangan project tersbut kami memulai pada repositories kami di tempat ini yang dapat langsung di Klon dengan mengetikan code sumber seperti ini pada terminal anda !
 # Terminologi 
+# Pelajari Information about Microsoft Services GDPR 
+https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted
