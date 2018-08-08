@@ -1,0 +1,17 @@
+{
+    "Operation": "And",
+    "Expressions": [
+        {
+            "Function": "StartDate",
+            "Parameters": [
+                "2018-01-19"
+            ]
+        },
+        {
+            "Function": "MinSeverity",
+            "Parameters": [
+                "Medium"
+            ]
+        }
+    ]
+}
