@@ -1,4 +1,4 @@
-# Latar Belakang
+## Latar Belakang
 Pada tanggal 25 di bulan Mei tahun 2018 lalu, undang-undang privasi Eropa, memberlakukan Peraturan Perlindungan Data Umum (GDPR).
 Dan menjelaskan point-point cakupannya.
 ### Tentang :
