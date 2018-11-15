@@ -11,13 +11,13 @@ Peraturan Perlindungan Data memberikan hak kepada orang (dikenal dalam peraturan
 # DSR
 ## Permintaan Subjek Data / Data Subject Request 
 Merupakan Permintaan formal oleh data yang tunduk pada pengontrol untuk mengambil tindakan pada data pribadi.
-# Maksud dan Tujuan
+## Maksud dan Tujuan
 Dengan adanya Hal seperti di sebutkan diatas maka pihak kami juga mulai mengembangkan element yang dibuat dan di usahakan dibangun menyerupai/seperti perangkat utility tools guna mempermudah para pengguna memproses atau mengeksekusi data yang menyangkut keberadaan diri mereka dalam halaman atau data service yang ada pada pihak kami.
 Ruang Lingkup :
 Dalam pengembangan project tersbut kami memulai pada repositories kami di tempat ini yang dapat langsung di Klon dengan mengetikan code sumber seperti ini pada terminal anda !
-# Terminologi 
+## Terminologi 
 Perihal Kepatuhan tak ubahnya dari harga menghargai hak-hak orang lain yang dalam hal ini masih dalam ruang dan lingkup Privacy seseorang individu dan Policy mencakup hal yang lebih luas atau rangkaian konsep dan asas yang menjadi pedoman dan dasar rencana dalam pelaksanaan suatu pekerjaan, kepemimpinan, dan cara bertindak, tak luput pula menyangkut masalah etika jika hal-hal yang tak pantas dilakukan seperti menindas suatu kaum atau individu yang biasa terjadi pada kaum wanita selalu di kangkangi oleh kaum diatasnya dikarenakan masih kurangnya minat pada lapisan masyarakat tertentu tentang persetaraan Gender, bahkan dengan mata kepala kita sendiri masih bisa di jumpai penindasan dengan merampas hak orang bahkan memperkosa di karenakan umbaran hawa dan nafsu yang tak terkendali. Banyak cara dan modus dalam masalah pelanggaran Hak bagi suatu kultur pada tingkatan tertentu yang secara fundamental masih biasa di katakan tabu, bagi kebanyakan masyarakat di Indonesia.
-# Pelajari Information about Microsoft Services GDPR 
+## Pelajari Information about Microsoft Services GDPR 
 [Pelajari](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
-# Pelajari juga tentang Pedoman Komunitas di tempat ini !
+## Pelajari juga tentang Pedoman Komunitas di tempat ini !
 [Pelajari](https://transdigiware.github.io/policies/)
